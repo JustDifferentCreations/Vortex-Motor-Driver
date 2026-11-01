@@ -1,0 +1,13 @@
+build/
+dist/
+debug/
+.generated_files/
+queuelogs/
+.ca/
+nbproject/private/
+mcc_generated_files/
+mcc-manifest-autosave.yml
+*.hex
+*.elf
+*.o
+*.map
