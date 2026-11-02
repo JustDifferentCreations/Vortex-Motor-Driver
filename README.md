@@ -2,7 +2,7 @@
 
 The motion board for **Vortex Control**, a vertical pinball machine that is still in progress. It drives two stepper motors, reads two joysticks and four limit switches, and follows signals from the main (score display) board to run each game.
 
-Board: Dual Motor / Dual Joystick / Quad Limit Switch Driver Card REV 0.2, designed by [Just Different Creations](https://justdif.com) in Lufkin, Texas. See it on the [PCB-Only Builds](https://justdif.com/pcb-only-builds/) page. The main board's code is in [Vortex-Score-Display](https://github.com/JustDifferentCreations/Vortex-Score-Display).
+Board: Dual Motor / Dual Joystick / Quad Limit Switch Driver Card REV 0.2, designed by [Just Different Creations](https://justdif.com) in Lufkin, Texas. See it on the [PCB Projects](https://justdif.com/pcb-projects/) page. The main board's code is in [Vortex-Score-Display](https://github.com/JustDifferentCreations/Vortex-Score-Display).
 
 ## How it works
 
